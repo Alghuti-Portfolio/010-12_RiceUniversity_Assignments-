@@ -4,4 +4,4 @@ This fold includes RiceUniversity machine learning assignments divided into thre
 
 ***012- CreditRisk***
 
-* For the unsupervised learning assignment, a Dataset of historical lending activity from a peer-to-peer lending services company is used to build a model that can identify the creditworthiness of borrowers.
+* For the Supervised learning assignment, a Dataset of historical lending activity from a peer-to-peer lending services company is used to build a model that can identify the creditworthiness of borrowers.
